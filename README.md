@@ -1,6 +1,6 @@
 # Data fundamental
-Instructor: Daniela Roque
-Course: Data Fundamentals
+Instructor: Daniela Roque,
+Course: Data Fundamentals,
 Student: Lins Katherine Vidal Zambrana
 
 ### 📌 **Project Overview**
